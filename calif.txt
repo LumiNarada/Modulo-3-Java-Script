@@ -5,3 +5,6 @@ Niceeee, me gustó lo de Doraa xd
 - Práctica 4
 10
 Recuerda que if(primito == true) es lo mismo que if(primito)
+
+- Práctica 11
+8.6
